@@ -1,6 +1,4 @@
 cloud-formation-templates
 =========================
 
-CloudFormation templates that show examples of how we do things @ MarkITx
-
-
+CloudFormation templates based on [markitx/cloud-formation-templates ](https://github.com/markitx/cloud-formation-templates). See [License](https://github.com/markitx/cloud-formation-templates/blob/master/LICENSE)
